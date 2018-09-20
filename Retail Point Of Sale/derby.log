@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Sep 20 15:52:51 PDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0165-f92f-996a-000006a67500 
+on database directory C:\Users\Justin\Documents\Retail Point Of Sale\databases\Store with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@69222c14 
+Loaded from file:/C:/Users/Justin/Documents/Retail%20Point%20Of%20Sale/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=9.0.4+11
+user.dir=C:\Users\Justin\Documents\Retail Point Of Sale
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
